@@ -1,7 +1,7 @@
 ### OSX ###
-*.DS_Store
 .AppleDouble
 .LSOverride
+*.DS_Store
 
 # Icon must end with two 
 Icon

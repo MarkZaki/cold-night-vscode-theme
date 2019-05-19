@@ -78,7 +78,7 @@
     "editorGutter.deletedBackground": "#A22929",
     "editorGutter.modifiedBackground": "#26506D",
     // editorGroup
-    "editorGroup.emptyBackground": "#A22929",
+    "editorGroup.emptyBackground": "#122738",
     "editorGroup.border": "#122738",
     "editorGroup.dropBackground": "#12273899",
     // editorGroupHeader
