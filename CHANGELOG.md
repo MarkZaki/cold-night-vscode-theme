@@ -7,3 +7,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [1.2.1]
+
+- Updated HTML Tag Colors
+- Updated DeleteBackground
