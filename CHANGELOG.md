@@ -6,9 +6,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+## [1.2.1] - 2019-05-21
 
-## [1.2.1]
+### Changed
 
-- Updated HTML Tag Colors
-- Updated DeleteBackground
+- HTML Tag Colors
+- DeleteBackground background
+- CSS seectirs color
