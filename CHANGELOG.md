@@ -12,4 +12,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - HTML Tag Colors
 - DeleteBackground background
-- CSS seectirs color
+- CSS selectors color
